@@ -1,4 +1,0 @@
-flask
-transformers
-torch
-hf_xet
