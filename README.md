@@ -16,7 +16,7 @@ pip install -r requirements.txt
    pip install pipeline
    pip install torch
  ```
-## Как запустить сайт после запуска?
+## Как запустить сайт после запуска main.py?
 должна быть такая ссылка как на изображении снизу, просто нажимаем на нее и она откроеться в браузере.
 
 <img width="308" height="102" alt="image" src="https://github.com/user-attachments/assets/ec3ddc7e-49d4-4189-bba7-fb38a91927d7" />
